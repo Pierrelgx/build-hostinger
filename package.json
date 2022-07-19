@@ -1,6 +1,7 @@
 {
   "name": "hostinger-react-app",
   "version": "0.1.0",
+  "homepage": "https://pierrelegoux.fr/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
